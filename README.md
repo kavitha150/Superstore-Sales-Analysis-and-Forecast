@@ -27,6 +27,8 @@ It provides a clear view of sales performance, trends, and forecasting.
 
 # 📷 Dashboard Preview
 
-<img width="585" height="675" alt="Screenshot (334)" src="https://github.com/user-attachments/assets/8b8d97a8-5384-4466-bd39-7daa27277e0c" />
+
+
+<img width="495" height="613" alt="Screenshot (336)" src="https://github.com/user-attachments/assets/fddeb060-7b71-423f-a9a9-03bfcc16522f" />
 
 
